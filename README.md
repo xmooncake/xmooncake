@@ -8,9 +8,9 @@
 
 <div>
 
-<img align="right"  src="https://www.icegif.com/wp-content/uploads/2023/10/icegif-395.gif"/>
+<img align="right" width="100"  src="https://www.icegif.com/wp-content/uploads/2023/10/icegif-395.gif"/>
 
-<div align="left" style="font-size: 16px; padding-right: 15%; width: 75%;">
+<div align="left" style="font-size: 16px; padding-right: 10%; width: 75%;">
 
 ### Welcome to my Github page
 

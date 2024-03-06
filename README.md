@@ -6,11 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-s.gierlachpl@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:s.gierlachpl@gmail.com)](mailto:s.gierlachpl@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/xmooncake?label=Follow&style=social)](https://github.com/xmooncake/?tab=follow)
 
-<div>
-
-<img align="right" width="100"  src="https://www.icegif.com/wp-content/uploads/2023/10/icegif-395.gif"/>
-
-<div align="left" style="font-size: 16px; padding-right: 10%; width: 75%;">
+<div style="font-size: 16px; padding-right: 10%; width: 75%;">
 
 ### Welcome to my Github page
 
@@ -48,8 +44,6 @@ I strongly believe that aside from (working) functionalities user experience is 
 ![YAML](https://img.shields.io/badge/Yaml-%23ffffff.svg?style=flat&logo=yaml&logoColor=151515)
 ![LaTeX](https://img.shields.io/badge/Latex-%23008080.svg?style=flat&logo=latex&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-
-</div>
 
 </div>
 
